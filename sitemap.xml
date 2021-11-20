@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dirtgrub.000webhostapp.com/</loc>
+    <loc>https://dirtgrub.netlify.app/</loc>
+    <lastmod>2021-11-20T19:32:16+00:00</lastmod>
+  </url><url>
+    <loc>https://dirtgrub.netlify.app/donate/</loc>
+    <lastmod>2021-11-20T19:32:16+00:00</lastmod>
+  </url><url>
+    <loc>https://dirtgrub.netlify.app/tags/first-post/</loc>
+    <lastmod>2021-11-20T19:32:16+00:00</lastmod>
+  </url><url>
+    <loc>https://dirtgrub.netlify.app/donate/first/</loc>
+    <lastmod>2021-11-20T19:32:16+00:00</lastmod>
+  </url><url>
+    <loc>https://dirtgrub.netlify.app/tags/</loc>
+    <lastmod>2021-11-20T19:32:16+00:00</lastmod>
+  </url><url>
+    <loc>https://dirtgrub.netlify.app/posts/first/</loc>
     <lastmod>2021-11-14T21:59:37+00:00</lastmod>
   </url><url>
-    <loc>https://dirtgrub.000webhostapp.com/tags/first-post/</loc>
+    <loc>https://dirtgrub.netlify.app/posts/</loc>
     <lastmod>2021-11-14T21:59:37+00:00</lastmod>
   </url><url>
-    <loc>https://dirtgrub.000webhostapp.com/posts/first/</loc>
-    <lastmod>2021-11-14T21:59:37+00:00</lastmod>
+    <loc>https://dirtgrub.netlify.app/series/</loc>
   </url><url>
-    <loc>https://dirtgrub.000webhostapp.com/posts/</loc>
-    <lastmod>2021-11-14T21:59:37+00:00</lastmod>
-  </url><url>
-    <loc>https://dirtgrub.000webhostapp.com/tags/</loc>
-    <lastmod>2021-11-14T21:59:37+00:00</lastmod>
-  </url><url>
-    <loc>https://dirtgrub.000webhostapp.com/series/</loc>
-  </url><url>
-    <loc>https://dirtgrub.000webhostapp.com/updates/</loc>
+    <loc>https://dirtgrub.netlify.app/updates/</loc>
   </url>
 </urlset>

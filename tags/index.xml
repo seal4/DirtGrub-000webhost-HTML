@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DirtGrub Minecraft PvP</title>
-    <link>https://dirtgrub.000webhostapp.com/tags/</link>
+    <link>https://dirtgrub.netlify.app/tags/</link>
     <description>Recent content in Tags on DirtGrub Minecraft PvP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 14 Nov 2021 21:59:37 +0000</lastBuildDate><atom:link href="https://dirtgrub.000webhostapp.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 19:32:16 +0000</lastBuildDate><atom:link href="https://dirtgrub.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post!</title>
-      <link>https://dirtgrub.000webhostapp.com/tags/first-post/</link>
-      <pubDate>Sun, 14 Nov 2021 21:59:37 +0000</pubDate>
+      <link>https://dirtgrub.netlify.app/tags/first-post/</link>
+      <pubDate>Sat, 20 Nov 2021 19:32:16 +0000</pubDate>
       
-      <guid>https://dirtgrub.000webhostapp.com/tags/first-post/</guid>
+      <guid>https://dirtgrub.netlify.app/tags/first-post/</guid>
       <description></description>
     </item>
     

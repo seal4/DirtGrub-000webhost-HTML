@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on DirtGrub Minecraft PvP</title>
-        <link>https://dirtgrub.000webhostapp.com/posts/</link>
+        <link>https://dirtgrub.netlify.app/posts/</link>
         <description>Recent content in Posts on DirtGrub Minecraft PvP</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sun, 14 Nov 2021 21:59:37 +0000</lastBuildDate>
-        <atom:link href="https://dirtgrub.000webhostapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://dirtgrub.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>First Post!</title>
-            <link>https://dirtgrub.000webhostapp.com/posts/first/</link>
+            <link>https://dirtgrub.netlify.app/posts/first/</link>
             <pubDate>Sun, 14 Nov 2021 21:59:37 +0000</pubDate>
             
-            <guid>https://dirtgrub.000webhostapp.com/posts/first/</guid>
+            <guid>https://dirtgrub.netlify.app/posts/first/</guid>
             <description>The first post of the official DirtGrub PvP minecraft server
 package main import ( &amp;#34;fmt&amp;#34; &amp;#34;log&amp;#34; &amp;#34;net&amp;#34; ) const ( website string = &amp;#34;www.dirtgrub.000webhostapp.com:80&amp;#34; ) func main() { _, err := net.Dial(&amp;#34;udp&amp;#34;, website) if err != nil { log.Fatal(&amp;#34;DirtGrub is offline or just taking a nap &amp;#34;, err) } fmt.Print(&amp;#34;DirtGrub is fully operational&amp;#34;) } This is just some random I code wrote in Golang as a test to see if the website would work, The source code of this website can be found on my github here</description>
             <content type="html"><![CDATA[<p>The first post of the official DirtGrub PvP minecraft server</p>
